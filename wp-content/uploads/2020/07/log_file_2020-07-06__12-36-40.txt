@@ -1,0 +1,348 @@
+
+---Downloaded files---
+The import files for: Demo 1 were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/nasrin
+Data file = C:\xampp\htdocs\nasrin\wp-content\plugins\themefarmer-companion/theme-files/demos/newstore/newstore-wordpress.xml
+Widget file = C:\xampp\htdocs\nasrin\wp-content\plugins\themefarmer-companion/theme-files/demos/newstore/newstore-widgets.wie
+Customizer file = C:\xampp\htdocs\nasrin\wp-content\plugins\themefarmer-companion/theme-files/demos/newstore/newstore-customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+Search - No Title - Imported
+Recent Posts - No Title - Imported
+Archives - No Title - Imported
+Categories - No Title - Imported
+Meta - No Title - Imported
+
+FrontPage Top Widget Area : 
+
+TF: Products - No Title - Imported
+
+WooCommerce Sidebar : 
+
+Ajax Product Search - No Title - Imported
+Filter Products by Price - Filter by price - Imported
+Filter Products by Attribute - Filter by Color - Imported
+Filter Products by Attribute - Filter by Brands - Imported
+Filter Products by Attribute - Filter by Size - Imported
+Filter Products by Rating - Filter By Rating - Imported
+Product Categories - Product categories - Imported
+Recent Viewed Products - Recently Viewed Products - Imported
+
+Product Sidebar : 
+
+Image - No Title - Imported
+Recent Viewed Products - Recently Viewed Products - Imported
+Wishlist - Wishlist - Imported
+Product Tag Cloud - Product tags - Imported
+
+FrontPage Products Widget Area : 
+
+TF: Products - Latest Products - Imported
+TF: Products - Featured Products - Imported
+TF: Products - On-Sale Products - Imported
+
+FrontPage Product Widget Area Column  : 
+
+Products - Highest selling - Imported
+Products - Random Products - Imported
+Products - Lowest Price - Imported
+Products - Highest Price - Imported
+
+Footer Widget Area Column 1 : 
+
+Custom HTML - No Title - Imported
+
+Footer Widget Area Column 2 : 
+
+Navigation Menu - Site Links - Imported
+
+Footer Widget Area Column 3 : 
+
+Gallery - New Products - Imported
+
+Footer Widget Area Column 4 : 
+
+Image - No Title - Imported
+Image - No Title - Imported
+
+
+
+---Importing widgets---
+Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+FrontPage Top Widget Area : 
+
+TF: Products - No Title - Widget already exists
+
+WooCommerce Sidebar : 
+
+Ajax Product Search - No Title - Widget already exists
+Filter Products by Price - Filter by price - Widget already exists
+Filter Products by Attribute - Filter by Color - Widget already exists
+Filter Products by Attribute - Filter by Brands - Widget already exists
+Filter Products by Attribute - Filter by Size - Widget already exists
+Filter Products by Rating - Filter By Rating - Widget already exists
+Product Categories - Product categories - Widget already exists
+Recent Viewed Products - Recently Viewed Products - Widget already exists
+
+Product Sidebar : 
+
+Image - No Title - Widget already exists
+Recent Viewed Products - Recently Viewed Products - Widget already exists
+Wishlist - Wishlist - Widget already exists
+Product Tag Cloud - Product tags - Widget already exists
+
+FrontPage Products Widget Area : 
+
+TF: Products - Latest Products - Widget already exists
+TF: Products - Featured Products - Widget already exists
+TF: Products - On-Sale Products - Widget already exists
+
+FrontPage Product Widget Area Column  : 
+
+Products - Highest selling - Widget already exists
+Products - Random Products - Widget already exists
+Products - Lowest Price - Widget already exists
+Products - Highest Price - Widget already exists
+
+Footer Widget Area Column 1 : 
+
+Custom HTML - No Title - Widget already exists
+
+Footer Widget Area Column 2 : 
+
+Navigation Menu - Site Links - Widget already exists
+
+Footer Widget Area Column 3 : 
+
+Gallery - New Products - Widget already exists
+
+Footer Widget Area Column 4 : 
+
+Image - No Title - Widget already exists
+Image - No Title - Widget already exists
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---Importing widgets---
+Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+FrontPage Top Widget Area : 
+
+TF: Products - No Title - Widget already exists
+
+WooCommerce Sidebar : 
+
+Ajax Product Search - No Title - Widget already exists
+Filter Products by Price - Filter by price - Widget already exists
+Filter Products by Attribute - Filter by Color - Widget already exists
+Filter Products by Attribute - Filter by Brands - Widget already exists
+Filter Products by Attribute - Filter by Size - Widget already exists
+Filter Products by Rating - Filter By Rating - Widget already exists
+Product Categories - Product categories - Widget already exists
+Recent Viewed Products - Recently Viewed Products - Widget already exists
+
+Product Sidebar : 
+
+Image - No Title - Widget already exists
+Recent Viewed Products - Recently Viewed Products - Widget already exists
+Wishlist - Wishlist - Widget already exists
+Product Tag Cloud - Product tags - Widget already exists
+
+FrontPage Products Widget Area : 
+
+TF: Products - Latest Products - Widget already exists
+TF: Products - Featured Products - Widget already exists
+TF: Products - On-Sale Products - Widget already exists
+
+FrontPage Product Widget Area Column  : 
+
+Products - Highest selling - Widget already exists
+Products - Random Products - Widget already exists
+Products - Lowest Price - Widget already exists
+Products - Highest Price - Widget already exists
+
+Footer Widget Area Column 1 : 
+
+Custom HTML - No Title - Widget already exists
+
+Footer Widget Area Column 2 : 
+
+Navigation Menu - Site Links - Widget already exists
+
+Footer Widget Area Column 3 : 
+
+Gallery - New Products - Widget already exists
+
+Footer Widget Area Column 4 : 
+
+Image - No Title - Widget already exists
+Image - No Title - Widget already exists
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+To make changes on Front Page go to Appearance -&gt; Customize
+
+---Importing customizer settings---
+Customizer settings import finished!

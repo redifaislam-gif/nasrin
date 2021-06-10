@@ -1,0 +1,15 @@
+
+---Downloaded files---
+The import files for: Demo 1 were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/nasrin
+Data file = C:\xampp\htdocs\nasrin\wp-content\plugins\themefarmer-companion/theme-files/demos/newstore/newstore-wordpress.xml
+Widget file = C:\xampp\htdocs\nasrin\wp-content\plugins\themefarmer-companion/theme-files/demos/newstore/newstore-widgets.wie
+Customizer file = C:\xampp\htdocs\nasrin\wp-content\plugins\themefarmer-companion/theme-files/demos/newstore/newstore-customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
